@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">Nootropica</string>
+	<string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    //////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////HERBS/////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////
+
+    <string name="Bacopa">
+        Blah Blah Blah Blah
+
+
+    </string>
+
+
+
+
+
+    //////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////RACETAMS/////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////
+
+    <string name="Aniracetam"> Low Daily Dosage: 1 Gram\n\n
+        High Daily Dosage: 2 Grams\n\n
+        Common Positives: Memory, focus, anti-anxiety,Improved Memory,
+        Increased Learning Ability,Improved Cognitive Processing, Heightened Reflexes,
+        Heightened Perception, Reduced Anxiety, Reduced Depression\n\n
+        Common Negatives:Headaches, Brain-fog, Hyperactivity,
+        Paradoxical Sleepiness, Nausea, Insomnia, Gastrointestinal Problem\n\n
+        Solubility: Fat Soluble\n\n
+        Half Life: 35 Minutes\n
+         High Daily Dosage: 2 Grams\n\n
+        Common Positives: Memory, focus, anti-anxiety,Improved Memory,
+        Increased Learning Ability,Improved Cognitive Processing, Heightened Reflexes,
+        Heightened Perception, Reduced Anxiety, Reduced Depression\n\n
+        Common Negatives:Headaches, Brain-fog, Hyperactivity,
+        Paradoxical Sleepiness, Nausea, Insomnia, Gastrointestinal Problem\n\n
+        Solubility: Fat Soluble\n\n
+        Half Life: 35 Minutes\n
+    </string>
+    <string name="Brivaracetam">Low Daily Dosage: 5mg\n\n
+        High Daily Dosage: 50mg\n\n
+        Solubility: Water Soluble\n\n
+        Half Life: 8 Hours \n\n
+        \n\n
+        Brivaracetam, the 4-n-propyl analog of levetiracetam, is a racetam derivative with anticonvulsant properties.
+        Brivaracetam is belived to act by binding to the ubiquitous synaptic vesicle glycoprotein 2A (SV2A).
+        Phase II clinical trials in adult patients with refractory partial seizures were promising.  Positive preliminary results from stage III trials have
+        been recorded, along with evidence that it is around 10 times more potent for the prevention of certain types of seziure
+        in mouse models than levetiracetam, of which it is an analogue.</string>
+		<string name="Coluracetam">        Low Daily Dosage: 5mg\n\n
+        High Daily Dosage: 40mg\n\n
+        Common Positives: Improved Memory, Mood Enhancer, Slightly Anxiolytic, Improved Color Perception\n\n
+        Half Life: 3 Hours \n\n</string>
+		<string name="Dimiracetam">Dimiracetam is a nootropic drug of the racetam family, derivatives of
+        which may have application in the treatment of neuropathic pain.</string>
+		<string name="Etiracetam"> Etiracetam is a nootropic drug of the racetam family.
+        It is racemic; its biologically active enantiomeric form is levetiracetam.</string>
+		<string name="Fasoracetam"> Low Daily Dosage:  10mg\n\n
+        High Daily Dosage: 100mg\n\n
+        Common Positives: Memory Recall</string>
+		<string name="Levetiracetam">Levetiracetam is an anticonvulsant medication used to treat epilepsy.  It is the S-enantiomer of etiracetam, structurally
+        similar to the prototypical nootropic drug piracetam.</string>
+		<string name="Nebracetam"> Nebracetam is an investigational drug of the racetam family that is a M1 acetylcholine receptor agonist in rats.
+        Its effects in humans have not been studied.</string>
+		<string name="Nefiracetam">Solubility: Fat Soluble\n\n
+        Nefiracetam is a nootropic antidementia drug of the racetam family.</string>
+		<string name="Nicoracetam">There are currently no studies done with Nicoracetam.</string>
+		<string name="Oxiracetam"> Low Daily Dosage: 300mg \n\n
+        High Daily Dosage: 1200mg \n\n
+        Common Positives: Memory, Recall\n\n
+        Solubility: Water Soluble\n\n
+        Half Life: 8 Hours \n\n </string>
+		<string name="Phenylpiracetam"> Low Daily Dosage:  100mg\n\n
+        High Daily Dosage: 250mg\n\nn
+        Common Positives:  Improves tolerance to cold weather and increases productivity\n\n
+        Solubility: Fat Solublr\n\n
+        Half Life:  2.5-3 Hours\n\n</string>
+		<string name="Piracetam"> Low Daily Dosage: 1 Gram\n\n
+        High Daily Dosage: 7 Grams\n\n
+        Common Positives: Clarity, Memory, Verbal Fluidity, anti-vertigo\n\n
+        Common Negatives: Headaches, Brain-fog, Hyperactivity, paradoxical sleepiness\n\n
+        Solubility: Water Soluble\n\n
+        Half Life:  5 Hours\n\n</string>
+    <string name="Pramiracetam">Low Daily Dosage: 100mg\n\n
+        High Daily Dosage: 1.6 Grams\n\n
+        Common Positives: Memory, focus, verbal fluidity, stimulating goal-oriented behaviour\n\n
+        Common Negatives: Expensive; Stomach pains\n\n
+        Solubility: Fat Soluble\n\n
+        Half Life:  4.5-6.5 Hours\n\n</string>
+    <string name="Rolziracetam">
+    Rolziracetam is a nootropic of the racetam family found to improve performance on a delay-response task in aged rhesus monkeys.
+    </string>
+
+//////////////////////////////////////////////////////////////////////////////
+////////////////////////////////PEPTIDES//////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+	<string name="Noopept">
+		Low Daily Dosage: 10mg\n\n
+        High Daily Dosage: 40mg \n\n
+        Common Positives: Supposedly 1000x more potent than Piracetam, increases levels of NGF and BDNF.  Highly Potent Nootropic, Enhances Learning and Memory, Increases Focus, Anxiolytic/Mood Enhancer\n\n
+        Common Negatives: Short half life, Short term memory problems in the beginning and with high doses\n\n
+        Solubility: Fat Soluble\n\n
+        Half Life:  30 Mins to 60 Mins\n\n
+		Summary:  Noopept is a peptide promoted and prescribed in Russia and neighbouring countries as a nootropic. The registered brand name Noopept (Ноопепт) is trademarked by the manufacturer JSC LEKKO Pharmaceuticals. The compound is patented in both the US and Russia with patent of Russian Federation number 2119496, US Patent number 5,439,930 issued 8/8/1995.[1] It is sold as a dietary supplement in the US and as a medication in other countries.\n\n
+		</string>
+
+
+    //////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////VITAMINS//////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////
+
+	
+     <string name="VitaminA">
+         Major Functions: Helps to keep eyesight and promote the growth of healthy skin, hair, bones and teeth. Helps in cell reproduction and aids to strengthen the immune and reproductive systems. The body uses beta-carotene and converts it to vitamin A.\n\n
+         Deficiency Effects: Night blindness, dry skin, poor bone and teeth growth and development.\n\n
+         Toxicity Effects:\n\n
+         Food Sources: Alfalfa Sprouts, Avocado, Banana, Bee Pollen, Broccoli, Cabbage, Carrot, Cayenne Pepper Celery, Cherries, Yellow Fruits, Garlic, Kale, Kelp, lettuce, Melons Papaya, Parsley, Peas, Persimmin, Pineapple, Prunes, Spinach, Spirulina Sprouts, Tomato, Vegetable, green/yellow, Wheat s-w, Wheatgrass\n\n
+		 </string>
+    <string name="VitaminB1">
+        Major Functions: Used by the body to help convert carbohydrates into energy. Helps to keep the normal function of the nervous system, muscles heart and digestion.\n\n
+        Deficiency Effects: Less concentration, loss of appetite. Weakness, exhaustion and fatigue.\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa, Alfalfa Sprouts, Almonds, Avacado, Barley, Beans (S-W), Bee Pollen, Broccoli Dates, Figs, Garlic, Ginsing (Korean), Gotu Kola (H), Grains S-W, Greens, Kelp Lentils (S-W), Nutritional Yeast, Onion, Parsley, Peas, Pecans, Prunes, Raisins Wild Rice, Seeds (S-W), Spirulina, Sprouts, Vegetables, Wheatgrass\n\n
+        </string>
+    <string name="VitaminB2">
+        Major Functions:  Important for growth in the body. Assists skin, nails and hair to grow. Helps to prevent sores and swelling of mouth and lips. Aids in reproduction and cell regeneration. Also aids in the releasing of energy from carbohydrates.\n\n
+        Deficiency Effects: Itching and irritation of lips, eyes, skin and mucous membranes.\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa Sprouts, Apple, Apricot, Asparagus, Avocado, Banana, Bee Pollen, Broccoli Cashews, Cherries, Dates, Figs, Garlic, Ginsing (Sib), Gotu Kola (H), Grains (S-W) Greens (leafy), Kelp, Nutritional Yeast, Nuts, Onion, Parsley, Prunes, Wild Rice Rosehips (H), Seeds (S-W), Spirulina, Sprouts (all), Watercress, Wheatgrass\n\n
+		</string>
+    <string name="VitaminB3">
+        Major Functions: Niacin lowers cholesterol and triglycerides. It reduces the blood fats called “very low density lipoproteins,” which have been linked to heart disease and cancer. Improves the blood sugar problems that can lead to damage of the arterial walls.  Assists in the metabolism and utilization of proteins, fats and carbohydrates, Promotes a healthy digestive system. Necessary for the health of the skin and tongue. Essential for the body’s production of cortisone, thyroxine, insulin and the male and female sex hormones. Necessary for healthy nervous system and brain function. Increases circulation and reduces cholesterol.\n\n
+        Deficiency Effects: Depression, diarrhoea, dizziness, fatigue, halitosis, headaches, indigestion, insomnia, limb pains, loss of appetite, low blood sugar, muscular weakness, skin eruptions, and inflammation.\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa, Alfalfa Sprouts, Almonds, Apricot, Asparagus, Avocado, Banana, Bee Pollen Burdock Root(H), Chamomile (H), Corn, Dates, Figs, Garlic, Grains (S-W), Kelp Mushrooms, Nutritional Yeast, Nuts, Onion, Parsley, peas, Potato, Prunes Rice(Brown-Wild), Seeds (S-W), Spirulina, Sprouts (all), Vegetables (green), Wheatgrass\n\n
+		</string>
+    <string name="VitaminB5">
+        Major Functions: Degenerates rapidly in the presence of heat. Helps in cell building. Aids in maintaining normal growth. Essential for converting food into energy. Helps the body fight infections and disease. Aids in healing wounds. Helps in the development of the central nervous system. Vital for the proper functioning of the adrenal glands. Necessary for the production of antibodies. Improves the body’s ability to handle stress. Protects against cell damage caused by radiation. Increases longevity. Produced in the body by the beneficial bacterial flora in the intestines.\n\n
+        Deficiency Effects:\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa, Alfalfa Sprouts, Almonds, Avocado, Bee Pollen, Broccoli, Cabbage, Carrot Cauliflower, Grains (S-W), Honey (raw), Legumes, Mushrooms, Nutritional Yeast, Nuts, Oats (S-W) Onion, Oranges, Peas, Potato, Royal Jelly, Seeds (S-W), Soy Beans(S-W), Spirulina Sprouts (all), Tomato, Vegetables (green), Walnuts, Wheatgerm, Wheatgrass\n\n
+        </string>
+    <string name="VitaminB6">
+        Major Functions: Degenerates rapidly in the presence of heat. Assures proper chemical balance in the blood and body tissues. Promotes healthy skin, teeth, muscles and nerves. Needed for the proper absorption of vitamin B-12. Necessary in the production of antibodies and red blood cells. Important for the metabolism and utilization of carbohydrates, fats and proteins. Needed for the balance of sodium and phosphorus. Helps maintain the balance of sodium and potassium which regulates body fluids.\n\n
+        Deficiency Effects:\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa Sprouts, Avocado, Banana, Bee Pollen, Beets, Bell Pepper, Buckwheat Sprts Cabbage, Cantaloupe, Corn, Grains (S-W), Greens, Lemon, Nutritional Yeast Nuts, Oranges, Peas, Prunes, Raisins, Spirulina, Sprouts (all) Vegetables (green), Wheatbran, Wheatgerm, Wheatgrass\n\n
+        </string>
+    <string name="VitaminB7">
+        Major Functions: BIOTIN… Essential in the formation of the nucleic acids RNA and DNA. Helps the liver produce lipids (fats) and promotes the conversion of feed into energy. Helps prevent exhaustion. Eases muscle pain. Aids in the utilization of protein, folic acid, pantothonic acid and vitamin B-12. Aids metabolism. Helps prevent baldness. Can be produced by the body in the intestines.\n\n
+        Deficiency Effects:\n\n
+        Toxicity Effects:\n\n
+        Food Sources":\n\n
+        </string>
+    <string name="VitaminB9">
+        Major Functions: FOLIC ACID… Degenerates rapidly in the presence of heat. Necessary for proper brain function. Essential for mental and emotional health. Improves lactation. Helps prevent anemia. Essential to the formation of red blood cells. Promotes healthy skin. Aids the performance of the live*. Needed for the division of body cells. Aids in protein metabolism. Important for the production of the nucleic acids RNA and DNA. Aids the intestinal tract. Enhances circulation.\n\n
+        Deficiency Effects: Anaemia and a reduction in growth rates. Other subtle symptoms may include digestive disorders such as diarrhoea, loss of appetite, and weight loss can occur, as can weakness, sore tongue, headaches, heart palpitations, irritability, forgetfulness, and behavioural disorders\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa Sprouts, Apricot, Asparagus, Avocado, Beans (S-W), Bee Pollen, Beat Greens Broccoli, Buckwheat Sprts, Cantaloupe, Cauliflower, Citrus Fruits, Cumfrey Leaf (H), Cucumber Ginsing (Kor), Grains (S-W), Greens (Leafy), Kelp, Peas, Soybeans (S-W), Spinach, Spirulina, Sprouts (all), Wheatgerm, Wheatgrass\n\n
+		</string>
+    <string name="VitaminB12">
+        Major Functions: Needed for nerve cells and red blood cells, and to make DNA.  Degenerates rapidly in the presence of heat. Promotes growth. Increases energy. Helps prevent anemia. Forms and regenerates red blood cells. Helps iron function better in the body and helps the placement of vitamin A into body tissues. Essential for the normal functioning of all cells. Maintains a healthy nervous system. Important for healthy bone marrow. Necessary for the metabolism of carbohydrates, fats and proteins. Helps improve concentration, memory and balance. Can be produced by the body in the intestines.\n\n
+        Deficiency Effects: Demyelination and irreversible nerve cell death. Symptoms include numbness or tingling of the extremities and an ataxic gait.\n\n
+        Toxicity Effects:\n\n
+        Food Sources: Alfalfa, Alfalfa Sprouts, Beans (S-W), Bee Pollen, Cumfrey (H) Dulse, Garlic, Ginsing(Kor/Sib), Grains (S-W), Kelp Lentil Sprouts, Nutritional Yeast, Nuts, Seeds (S-W), Soybeans(S-W) Spirulina, Sprouts (all), Wheatgerm, Wheatgrass, White Oak Bk(H)\n\n
+        </string>
+	<string name="VitaminB15">
+		Major Functions: B-15… PANGAMIC ACID… Degenerates rapidly in the presence of heat. Extends cell life span. Helps lower blood cholesterol level. Speeds recovery from fatigue. Increases the body’s efficiency in using oxygen. Increases immunity to infections, Helpful in stimulating the glandular and nervous system. Essential in the body’s metabolism of protein. Protects against the damaging effects of carbon monoxide, and other pollutants. Widely used in Russia and Europe.\n\n
+		Deficiency Effects:\n\n
+		Toxicity Effects:\n\n
+		Food Sources: Bee Pollen, Black Walnut (H), Cabbage, Dandelion Rt(H) Grains (S-W), Juniper Berries, Marshmallow Root(H), Nutritional Yeast Nuts, Pumpkin Seeds, Brown Rice, Seeds (S-W) Sesame Seeds, Sprouts (all), Sunflower Seeds, Wheatgrass\n\n
+	    </string>
+	
+	<string name="VitaminB17">
+		Major Functions: B-17…AMYGDALIN… Degenerates rapidly in the presence of heat. Research suggests it may have cancer fighting characteristics.\n\n
+		Deficiency Effects:\n\n
+		Toxicity Effects:\n\n
+		Food Sources: Apple Seeds, Apricot Kernels, Buckwheat (S-W), Celery Chaparral (H), Flax Seeds, Garlic, Grains (S-W) Millet, Mung Beans(SW), Peach Kernels, Plum Kernels Seeds ( S-W), Sprouts (all), Wheatgrass\n\n
+	    </string>
+		
+    <string name="VitaminC">
+        Major Functions:  C… ASCORBIC ACID… Degenerates rapidly in the presence of heat. Essential for collagen production in the body. Helps preserve and mend the connective tissues, bones, muscles and blond vessels. Promotes heeling of wounds and burns. Protects the body against infections, viruses and bacterial toxins. Maintains solid bones and teeth. Helps in decreasing blond cholesterol. A natural laxative. Used in the formation of red blood cells. Lowers incidence of blood clots in veins. Protects the brain and spinal cord from damage by free radicals (destructive molecules that can cause damage to the body). Essential in the formation of adrenaline. Helps the body in stress situations. Extends cell life.\n\n
+        Deficiency Effects: Scurvy (though rarely seen today) which causes bleeding and inflamed gums, loose teeth and poor wound healing.\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa sprouts, Apple, Bee Pollen, Beets, Berries, Broccoli, Burdock Root (H), Cabbage, Cantaloupe Cauliflower, Celery, Cherries, Chickweed (H), Citrus fruits, Cucumber, Garlic, Grapefruit, Greens (Leafy) Kale, Kelp, Lemon, Onion, Oranges, Parsley, Peas, Persimmon, Pineapple Potato, Rosehips (H), Spinach, Spirulina, Sprouts (all), Strawberries, Watercress, Wheatgrass\n\n
+        </string>
+    <string name="VitaminD">
+        Major Functions: D… CALCIFEROL… Facilitates the absorption of calcium and phosphorus from foods. Bone builder. Aids in producing blood plasma. Regulates mineral metabolism. Stabilizes the nervous system and head action. Produced by the body in response to sunlight. Needed in the formation of certain enzymes. Helps in normal blond clotting.\n\n
+        Deficiency Effects: Rickets and osteomalacia. Rickets results in soft bones and skeletal deformities\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa Sprouts, Avocado, Bee Pollen, Carrot Chickweed (H), Cumfrey Root(H), Dandelion Rt(H), Garlic Greens (Leafy), Lemongrass (H), Marshmallow Root, Mushrooms Seeds(S-W), Sunflower seeds, Sunlight\n\n
+        </string>
+    <string name="VitaminE">
+        Major Functions: E… TOCOPHEROL… Degenerates rapidly in the presence of heat. Essential for reproduction. Increases male and female fertility. Helps restore male potency. Aids lactation. Protects red blood cells. Promotes healing of wounds. Prevents blood clots. Supplies oxygen to the body for more endurance. Aids in the prevention of miscarriages, dull mentality, pessimism and loss of courage. Helps protect the lungs and other tissues from damage by environmental pollutants.\n\n
+        Deficiency Effects: Intestinal disorders - cystic fibrosis, pancreatitis, and cholestasis. Prevent the absorption of dietary fats and fat-soluble nutrients.\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa Sprouts, Almond, Avocado, Barley, Bean Sprouts, Bee Pollen, Broccoli Carrot, Corn, fruit Grains (S-W), Greens (Leafy), Kelp Nuts, Olive Oil, Oranges, Brown Rice, Rosehips (H), Seeds (S-W) Spinach, Spirulina, Sprouts (all), Vegetable Oil, Wheatgerm, Wheatgrass\n\n
+        </string>
+   <string name="VitaminK">
+        Major Functions: K… PHYLLOQUINONE… Can be formed by natural bacteria in the intestines. Responsible for the maintenance of the blood’s clotting system. Aids in the prevention of internal bleeding and hemorrhages. Aids in healing bruises, Vitality and longevity factor, Vital for normal functioning of the liver.\n\n
+        Deficiency Effects: A shortage of this vitamin may result in nosebleeds, internal haemorrhaging.\n\n
+        Toxicity Effects:\n\n
+        Food Sources": Alfalfa Sprouts, Bee Pollen, Cabbage, Carrot, Cauliflower, Cayenne Pepper, Cumfrey (H) Corn, Ginger Root, Grains (S-W), Greens (leafy), Kale, Kelp Mushrooms, Oatmeal, Oats (S-W), Peas, Potato, Root Vegetables Safflower Oil, Soybeans (S-W), Spinach, strawberries, Wheatgerm, Wheatgrass\n\n
+       </string>
+
+
+
+
+
+
+</resources>

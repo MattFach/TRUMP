@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.nootropica1"
+        minSdkVersion 14
+        targetSdkVersion 22
+        versionCode 4
+        versionName "1.3"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:22.2.0'
+    compile files('/media/bhagvati/76364929-953a-40a8-8cb7-1ddb38afe17b/temp/Nootropica/libs/picasso-2.1.1.jar')
+    compile 'com.squareup.picasso:picasso:2.5.2'
+}
