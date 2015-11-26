@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Nootropica.iml" filepath="$PROJECT_DIR$/Nootropica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TRUMP.iml" filepath="$PROJECT_DIR$/TRUMP.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/picasso-master/picasso-master.iml" filepath="$PROJECT_DIR$/libs/picasso-master/picasso-master.iml" />

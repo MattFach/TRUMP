@@ -1,0 +1,166 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E4E5E7"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"
+        android:layout_height="49dp"
+        android:layout_width="match_parent">
+    </include>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_weight="0.60">
+        
+        <TextView
+            android:layout_marginTop="17sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Your Name (required):"
+            android:textColor="#222222"
+            android:layout_marginLeft="6sp"
+            android:id="@+id/tvName" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="19sp"
+            android:layout_marginTop="-5sp"
+            android:layout_marginBottom="6sp"
+            android:inputType="textPersonName"
+            android:textColorHint="#BDBDBD"
+            android:hint="Jean Doe"
+            android:textColor="#575757"
+            android:ems="10"
+            android:layout_marginLeft="4sp"
+            android:id="@+id/etName" />
+
+
+
+        <TextView
+            android:layout_marginTop="17sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Your email (required):"
+            android:textColor="#222222"
+            android:layout_marginLeft="6sp"
+            android:id="@+id/tvEmail" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="19sp"
+            android:layout_marginTop="-5sp"
+            android:layout_marginBottom="6sp"
+            android:inputType="textPersonName"
+            android:textColorHint="#BDBDBD"
+            android:hint="last.first@domain.com"
+            android:textColor="#575757"
+            android:ems="10"
+            android:layout_marginLeft="4sp"
+            android:id="@+id/etEmail" />
+
+
+
+
+        <TextView
+            android:layout_marginTop="17sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Subject:"
+            android:textColor="#222222"
+            android:layout_marginLeft="6sp"
+            android:id="@+id/tvSubject" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="19sp"
+            android:layout_marginTop="-5sp"
+            android:layout_marginBottom="6sp"
+            android:inputType="textPersonName"
+            android:textColorHint="#BDBDBD"
+            android:hint="Blank"
+            android:textColor="#575757"
+            android:ems="10"
+            android:layout_marginLeft="4sp"
+            android:id="@+id/etSubject" />
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_marginTop="-8sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_weight="3">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Your Message:"
+            android:textColor="#222222"
+            android:layout_marginLeft="6sp"
+            android:id="@+id/tvMessage" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="4sp"
+            android:layout_marginTop="-5sp"
+            android:gravity="top"
+            android:inputType="textMultiLine"
+            android:hint="Blank"
+            android:textColorHint="#BDBDBD"
+            android:textSize="19sp"
+            android:textColor="#575757"
+            android:ems="10"
+            android:id="@+id/etMessage"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_weight="1">
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cancel"
+                android:id="@+id/btnCancel"
+                android:layout_gravity="left"
+                android:layout_weight="1"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Send"
+                android:id="@+id/btnSend"
+                android:layout_gravity="right"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+
+
+
+</LinearLayout>

@@ -7,11 +7,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.TextView;
+
 import com.nootropica.R;
 
 public class MainActivity extends Activity implements OnClickListener {
 
-	Button biohack, lifehack, website, disclaimer;
+	private Button biohack, lifehack, website, disclaimer;
+	private TextView support;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -22,11 +25,13 @@ public class MainActivity extends Activity implements OnClickListener {
 		lifehack = (Button) findViewById(R.id.lifehack);
 		website = (Button) findViewById(R.id.website);
 		disclaimer = (Button) findViewById(R.id.disclaimer);
+		support = (TextView) findViewById(R.id.tvGoSupport);
 
 		biohack.setOnClickListener(this);
 		lifehack.setOnClickListener(this);
 		website.setOnClickListener(this);
 		disclaimer.setOnClickListener(this);
+		support.setOnClickListener(this);
 
 	}
 
@@ -50,6 +55,10 @@ public class MainActivity extends Activity implements OnClickListener {
 		case R.id.disclaimer:
 			Intent startDisclaimer = new Intent(this, Disclaimer.class);
 			startActivity(startDisclaimer);
+			break;
+		case R.id.tvGoSupport:
+			Intent startSupport = new Intent(this, SupportActivity.class);
+			startActivity(startSupport);
 			break;
 
 		default:
