@@ -4,24 +4,16 @@
     <string name="action_settings">Settings</string>
 
 
-    //////////////////////////////////////////////////////////////////////////////
-    ////////////////////////////////HERBS/////////////////////////////////////////
-    //////////////////////////////////////////////////////////////////////////////
-
-    <string name="Bacopa">
-        Blah Blah Blah Blah
-        .....55
-
-
-    </string>
 
 
 
 
+//////////////////////////////////////////////////////////////////////////////
+////////////////////////////////Start of Drugs////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
 
-    //////////////////////////////////////////////////////////////////////////////
-    ////////////////////////////////RACETAMS/////////////////////////////////////////
-    //////////////////////////////////////////////////////////////////////////////
+
+
 
     <string name="Aniracetam"> Low Daily Dosage: 1 Gram\n\n
         High Daily Dosage: 2 Grams\n\n
@@ -41,7 +33,22 @@
         Solubility: Fat Soluble\n\n
         Half Life: 35 Minutes\n
     </string>
-    <string name="Brivaracetam">Low Daily Dosage: 5mg\n\n
+    
+     	<string name="Bacopa">
+        Bacopa monnieri is a perennial, creeping herb native to the wetlands of southern India, Australia, Europe, Africa, Asia, and North and South America.
+        Bacopa is a medicinal herb used in Ayurveda, where it is also known as "Brahmi," after Brahmā, the creator God of the Hindu pantheon. \n\n
+        Bacopa has been used in traditional Ayurvedic treatment for epilepsy and asthma.  It is also used in Ayurveda for ulcers, tumors, ascites, enlarged spleen, inflammations, leprosy, anemia, and gastroenteritis. \n\n
+        Common uses are:
+        Supporting the brain.
+        Promoting Liver Health
+        Protection Against Neonatal Hypoglycemia
+        Positively Impacts Opioid Dependence
+        Fights Systemic Redness and Swelling
+        Encourages Normal Blood Pressure
+        Strong Antioxidant Activity
+   	</string>
+        
+	<string name="Brivaracetam">Low Daily Dosage: 5mg\n\n
         High Daily Dosage: 50mg\n\n
         Solubility: Water Soluble\n\n
         Half Life: 8 Hours \n\n
@@ -51,30 +58,51 @@
         Phase II clinical trials in adult patients with refractory partial seizures were promising.  Positive preliminary results from stage III trials have
         been recorded, along with evidence that it is around 10 times more potent for the prevention of certain types of seziure
         in mouse models than levetiracetam, of which it is an analogue.</string>
-		<string name="Coluracetam">        Low Daily Dosage: 5mg\n\n
+        
+	<string name="Coluracetam">        Low Daily Dosage: 5mg\n\n
         High Daily Dosage: 40mg\n\n
         Common Positives: Improved Memory, Mood Enhancer, Slightly Anxiolytic, Improved Color Perception\n\n
         Half Life: 3 Hours \n\n</string>
-		<string name="Dimiracetam">Dimiracetam is a nootropic drug of the racetam family, derivatives of
+        
+	<string name="Dimiracetam">Dimiracetam is a nootropic drug of the racetam family, derivatives of
         which may have application in the treatment of neuropathic pain.</string>
-		<string name="Etiracetam"> Etiracetam is a nootropic drug of the racetam family.
+        
+	<string name="Etiracetam"> Etiracetam is a nootropic drug of the racetam family.
         It is racemic; its biologically active enantiomeric form is levetiracetam.</string>
 		<string name="Fasoracetam"> Low Daily Dosage:  10mg\n\n
         High Daily Dosage: 100mg\n\n
         Common Positives: Memory Recall</string>
-		<string name="Levetiracetam">Levetiracetam is an anticonvulsant medication used to treat epilepsy.  It is the S-enantiomer of etiracetam, structurally
+        
+	<string name="Levetiracetam">Levetiracetam is an anticonvulsant medication used to treat epilepsy.  It is the S-enantiomer of etiracetam, structurally
         similar to the prototypical nootropic drug piracetam.</string>
-		<string name="Nebracetam"> Nebracetam is an investigational drug of the racetam family that is a M1 acetylcholine receptor agonist in rats.
+        
+	<string name="Nebracetam"> Nebracetam is an investigational drug of the racetam family that is a M1 acetylcholine receptor agonist in rats.
         Its effects in humans have not been studied.</string>
-		<string name="Nefiracetam">Solubility: Fat Soluble\n\n
-        Nefiracetam is a nootropic antidementia drug of the racetam family.</string>
-		<string name="Nicoracetam">There are currently no studies done with Nicoracetam.</string>
-		<string name="Oxiracetam"> Low Daily Dosage: 300mg \n\n
+        
+	<string name="Nefiracetam">
+	Solubility: Fat Soluble\n\n
+        Nefiracetam is a nootropic antidementia drug of the racetam family.
+        </string>
+        
+	<string name="Nicoracetam">There are currently no studies done with Nicoracetam.</string>
+	
+	<string name="Noopept">
+	Low Daily Dosage: 10mg\n\n
+        High Daily Dosage: 40mg \n\n
+        Common Positives: Supposedly 1000x more potent than Piracetam, increases levels of NGF and BDNF.  Highly Potent Nootropic, Enhances Learning and Memory, Increases Focus, Anxiolytic/Mood Enhancer\n\n
+        Common Negatives: Short half life, Short term memory problems in the beginning and with high doses\n\n
+        Solubility: Fat Soluble\n\n
+        Half Life:  30 Mins to 60 Mins\n\n
+	Summary:  Noopept is a peptide promoted and prescribed in Russia and neighbouring countries as a nootropic. The registered brand name Noopept (Ноопепт) is trademarked by the manufacturer JSC LEKKO Pharmaceuticals. The compound is patented in both the US and Russia with patent of Russian Federation number 2119496, US Patent number 5,439,930 issued 8/8/1995.[1] It is sold as a dietary supplement in the US and as a medication in other countries.\n\n
+	</string>
+	
+	<string name="Oxiracetam"> Low Daily Dosage: 300mg \n\n
         High Daily Dosage: 1200mg \n\n
         Common Positives: Memory, Recall\n\n
         Solubility: Water Soluble\n\n
         Half Life: 8 Hours \n\n </string>
-		<string name="Phenylpiracetam"> Low Daily Dosage:  100mg\n\n
+	
+	<string name="Phenylpiracetam"> Low Daily Dosage:  100mg\n\n
         High Daily Dosage: 250mg\n\nn
         Common Positives:  Improves tolerance to cold weather and increases productivity\n\n
         Solubility: Fat Solublr\n\n
@@ -95,24 +123,8 @@
     Rolziracetam is a nootropic of the racetam family found to improve performance on a delay-response task in aged rhesus monkeys.
     </string>
 
-//////////////////////////////////////////////////////////////////////////////
-////////////////////////////////PEPTIDES//////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////
-
-	<string name="Noopept">
-		Low Daily Dosage: 10mg\n\n
-        High Daily Dosage: 40mg \n\n
-        Common Positives: Supposedly 1000x more potent than Piracetam, increases levels of NGF and BDNF.  Highly Potent Nootropic, Enhances Learning and Memory, Increases Focus, Anxiolytic/Mood Enhancer\n\n
-        Common Negatives: Short half life, Short term memory problems in the beginning and with high doses\n\n
-        Solubility: Fat Soluble\n\n
-        Half Life:  30 Mins to 60 Mins\n\n
-		Summary:  Noopept is a peptide promoted and prescribed in Russia and neighbouring countries as a nootropic. The registered brand name Noopept (Ноопепт) is trademarked by the manufacturer JSC LEKKO Pharmaceuticals. The compound is patented in both the US and Russia with patent of Russian Federation number 2119496, US Patent number 5,439,930 issued 8/8/1995.[1] It is sold as a dietary supplement in the US and as a medication in other countries.\n\n
-		</string>
 
 
-    //////////////////////////////////////////////////////////////////////////////
-    ////////////////////////////////VITAMINS//////////////////////////////////////
-    //////////////////////////////////////////////////////////////////////////////
 
 	
      <string name="VitaminA">
