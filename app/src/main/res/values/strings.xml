@@ -5,17 +5,67 @@
 
 
 
-
-
-
-//////////////////////////////////////////////////////////////////////////////
-////////////////////////////////Start of Drugs////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////
-
-
-
-
-    <string name="Aniracetam"> Low Daily Dosage: 1 Gram\n\n
+/////////////////////#//////////////////////////
+<string name="2-Aminoisobutyric  Acid">    Data  </string>
+<string name="20 Standard  Amino  Acids">    Data  </string>
+<string name="2C-B">    Data  </string>
+<string name="2C-Bn">    Data  </string>
+<string name="2C-Bu">    Data  </string>
+<string name="2C-C">    Data  </string>
+<string name="2C-CN">    Data  </string>
+<string name="2C-CP">    Data  </string>
+<string name="2C-D">    Data  </string>
+<string name="2C-E">    Data  </string>
+<string name="2C-EF">    Data  </string>
+<string name="2C-F">    Data  </string>
+<string name="2C-G">    Data  </string>
+<string name="2C-G-3">    Data  </string>
+<string name="2C-G-4">    Data  </string>
+<string name="2C-H">    Data  </string>
+<string name="2C-I">    Data  </string>
+<string name="2C-iP">    Data  </string>
+<string name="2C-N">    Data  </string>
+<string name="2C-NH2">    Data  </string>
+<string name="2C-NPH">    Data  </string>
+<string name="2C-O">    Data  </string>
+<string name="2C-O-4">    Data  </string>
+<string name="2C-P">    Data  </string>
+<string name="2C-Ph">    Data  </string>
+<string name="2C-SE">    Data  </string>
+<string name="2C-T">    Data  </string>
+<string name="2C-T-13">    Data  </string>
+<string name="2C-T-15">    Data  </string>
+<string name="2C-T-16">    Data  </string>
+<string name="2C-T-17">    Data  </string>
+<string name="2C-T-2">    Data  </string>
+<string name="2C-T-21">    Data  </string>
+<string name="2C-T-4">    Data  </string>
+<string name="2C-T-7">    Data  </string>
+<string name="2C-T-8">    Data  </string>
+<string name="2C-T-9">    Data  </string>
+<string name="2C-TFE">    Data  </string>
+<string name="2C-TFM">    Data  </string>
+<string name="2C-V">    Data  </string>
+<string name="2C-X">    Data  </string>
+<string name="2C-YN">    Data  </string>
+<string name="5-HTP (5-Hydroxytryptophan)">    Data  </string>
+/////////////////////A//////////////////////////
+<string name="AAKG  (L-Arginine Alpha-Ketoglutarate)">    Data  </string>
+<string name="Acetylcholine">    Data  </string>
+<string name="Acetylcholinesterase Inhibitors">    Data  </string>
+<string name="Adaptogens">    Data  </string>
+<string name="Adrafinil (Olmifon)">    Data  </string>
+<string name="Adrenaline">    Data  </string>
+<string name="AI (Aromatase Inhibitors)">    Data  </string>
+<string name="Alanine">    Data  </string>
+<string name="ALCAR (Acetyl L-Carnitine)">    Data  </string>
+<string name="Algae">    Data  </string>
+<string name="Alpha GPC">    Data  </string>
+<string name="Alpha Lipoic Acid (ALA)">    Data  </string>
+<string name="Amino Acids">    Data  </string>
+<string name="AMP Citrate (1,3-DMBA) ">    Data  </string>
+<string name="Ampakines">    Data  </string>
+<string name="Aniracetam"> Low Daily Dosage: 1 Gram\n\n
         High Daily Dosage: 2 Grams\n\n
         Common Positives: Memory, focus, anti-anxiety,Improved Memory,
         Increased Learning Ability,Improved Cognitive Processing, Heightened Reflexes,
@@ -32,9 +82,21 @@
         Paradoxical Sleepiness, Nausea, Insomnia, Gastrointestinal Problem\n\n
         Solubility: Fat Soluble\n\n
         Half Life: 35 Minutes\n
-    </string>
-    
-     	<string name="Bacopa">
+</string>
+<string name="Antidepressants">    Data  </string>
+<string name="Antioxidants">    Data  </string>
+<string name="Arginine">    Data  </string>
+<string name="Arimidex (Anastrozole)">    Data  </string>
+<string name="Armodafinil (Nuvigil)">    Data  </string>
+<string name="Aromasin (Exemestane)">    Data  </string>
+<string name="Ascorbic Acid">    Data  </string>
+<string name="Ashwagandha  Root">    Data  </string>
+<string name="Asparagine">    Data  </string>
+<string name="Aspartic Acid">    Data  </string>
+<string name="Astaxanthin">    Data  </string>
+<string name="Astragalus Root">    Data  </string>
+/////////////////////B//////////////////////////
+<string name="Bacopa Monnieri">
         Bacopa monnieri is a perennial, creeping herb native to the wetlands of southern India, Australia, Europe, Africa, Asia, and North and South America.
         Bacopa is a medicinal herb used in Ayurveda, where it is also known as "Brahmi," after Brahmā, the creator God of the Hindu pantheon. \n\n
         Bacopa has been used in traditional Ayurvedic treatment for epilepsy and asthma.  It is also used in Ayurveda for ulcers, tumors, ascites, enlarged spleen, inflammations, leprosy, anemia, and gastroenteritis. \n\n
@@ -46,9 +108,14 @@
         Fights Systemic Redness and Swelling
         Encourages Normal Blood Pressure
         Strong Antioxidant Activity
-   	</string>
-        
-	<string name="Brivaracetam">Low Daily Dosage: 5mg\n\n
+</string>
+<string name="Baicalin">    Data  </string>
+<string name="Bark">    Data  </string>
+<string name="Berries">    Data  </string>
+<string name="Beta Alanine">    Data  </string>
+<string name="Beta Ecdysterone">    Data  </string>
+<string name="Branched-Chain  Amino  Acids">    Data  </string>
+<string name="Brivaracetam">Low Daily Dosage: 5mg\n\n
         High Daily Dosage: 50mg\n\n
         Solubility: Water Soluble\n\n
         Half Life: 8 Hours \n\n
@@ -57,36 +124,244 @@
         Brivaracetam is belived to act by binding to the ubiquitous synaptic vesicle glycoprotein 2A (SV2A).
         Phase II clinical trials in adult patients with refractory partial seizures were promising.  Positive preliminary results from stage III trials have
         been recorded, along with evidence that it is around 10 times more potent for the prevention of certain types of seziure
-        in mouse models than levetiracetam, of which it is an analogue.</string>
-        
-	<string name="Coluracetam">        Low Daily Dosage: 5mg\n\n
+        in mouse models than levetiracetam, of which it is an analogue.
+		</string>
+<string name="Bromantane">    Data  </string>
+/////////////////////C//////////////////////////
+<string name="Caffeine">    Data  </string>
+<string name="Caffeine Anhydrous">    Data  </string>
+<string name="Caffeine Citrate">    Data  </string>
+<string name="Calcium">    Data  </string>
+<string name="Carnitine">    Data  </string>
+<string name="Carnosine">    Data  </string>
+<string name="Carotenoids">    Data  </string>
+<string name="Centrophenoxine">    Data  </string>
+<string name="Chaga Mushroom">    Data  </string>
+<string name="Chlorella Algae">    Data  </string>
+<string name="Choline  Bitrate">    Data  </string>
+<string name="Choline (Acetylcholine  Precursors)">    Data  </string>
+<string name="Choline Citrate">    Data  </string>
+<string name="Cholinergics">    Data  </string>
+<string name="Chromium">    Data  </string>
+<string name="Chromium  Picolinate">    Data  </string>
+<string name="Cialis (Tadalafil)">    Data  </string>
+<string name="Citicoline(CDP Choline)">    Data  </string>
+<string name="Citric Acid">    Data  </string>
+<string name="Citrulline Malate">    Data  </string>
+<string name="CLA ( Conjugated Linoleic Acid )">    Data  </string>
+<string name="Clenbuterol ">    Data  </string>
+<string name="Clomid (Clomiphene)">    Data  </string>
+<string name="Codonopsis Root (Dang Shen)">    Data  </string>
+<string name="Coenzyme Q10">    Data  </string>
+<string name="Coluracetam">        Low Daily Dosage: 5mg\n\n
         High Daily Dosage: 40mg\n\n
         Common Positives: Improved Memory, Mood Enhancer, Slightly Anxiolytic, Improved Color Perception\n\n
-        Half Life: 3 Hours \n\n</string>
-        
-	<string name="Dimiracetam">Dimiracetam is a nootropic drug of the racetam family, derivatives of
-        which may have application in the treatment of neuropathic pain.</string>
-        
-	<string name="Etiracetam"> Etiracetam is a nootropic drug of the racetam family.
-        It is racemic; its biologically active enantiomeric form is levetiracetam.</string>
-		<string name="Fasoracetam"> Low Daily Dosage:  10mg\n\n
+        Half Life: 3 Hours \n\n
+		</string>
+<string name="Cordyceps Sinensis  Mushroom  Mycelia  Extract">    Data  </string>
+<string name="Cortisone">    Data  </string>
+<string name="COX-2 Inhibitors">    Data  </string>
+<string name="Creatine">    Data  </string>
+<string name="Curcumin">    Data  </string>
+<string name="CX-516(Ampalex)">    Data  </string>
+<string name="CX-546">    Data  </string>
+<string name="CX-614">    Data  </string>
+<string name="CX-691(Farampator)">    Data  </string>
+<string name="CX-717">    Data  </string>
+<string name="Cysteine">    Data  </string>
+/////////////////////D//////////////////////////
+<string name="D-Aspartic  Acid">    Data  </string>
+<string name="Damiana (Turnera Diffusa)">    Data  </string>
+<string name="Desmopressin">    Data  </string>
+<string name="Detoxification">    Data  </string>
+<string name="Devices">    Data  </string>
+<string name="DHEA">    Data  </string>
+<string name="Dicaffeine Malate">    Data  </string>
+<string name="Diet">    Data  </string>
+<string name="Dietary Supplement">    Data  </string>
+<string name="Digestive">    Data  </string>
+<string name="Dihexa">    Data  </string>
+<string name="DIM (Diindolylmethane)">    Data  </string>
+<string name="Dimiracetam">Dimiracetam is a nootropic drug of the racetam family, derivatives of
+        which may have application in the treatment of neuropathic pain.
+		</string>
+<string name="DMAA (Methylhexanamine)">    Data  </string>
+<string name="DMAE">    Data  </string>
+<string name="Donepezil">    Data  </string>
+<string name="Dopamine">    Data  </string>
+<string name="Dostinex (Cabergoline)">    Data  </string>
+/////////////////////E//////////////////////////
+<string name="Ecklonia Cava">    Data  </string>
+<string name="Eleuthero Root">    Data  </string>
+<string name="Emoxypine">    Data  </string>
+<string name="Emulsifiers">    Data  </string>
+<string name="Enclomiphene">    Data  </string>
+<string name="Enzymes">    Data  </string>
+<string name="Epinephrine">    Data  </string>
+<string name="Ergogenic">    Data  </string>
+<string name="Essential">    Data  </string>
+<string name="Etiracetam"> 
+		Etiracetam is a nootropic drug of the racetam family.
+        It is racemic; its biologically active enantiomeric form is levetiracetam.
+		</string>
+<string name="Eucommia Bark">    Data  </string>
+<string name="Eugeroics">    Data  </string>
+/////////////////////F//////////////////////////
+<string name="Fasoracetam (NS-105)">   
+		Low Daily Dosage:  10mg\n\n
         High Daily Dosage: 100mg\n\n
-        Common Positives: Memory Recall</string>
-        
-	<string name="Levetiracetam">Levetiracetam is an anticonvulsant medication used to treat epilepsy.  It is the S-enantiomer of etiracetam, structurally
-        similar to the prototypical nootropic drug piracetam.</string>
-        
-	<string name="Nebracetam"> Nebracetam is an investigational drug of the racetam family that is a M1 acetylcholine receptor agonist in rats.
-        Its effects in humans have not been studied.</string>
-        
-	<string name="Nefiracetam">
+        Common Positives: Memory Recall Data  
+		</string>
+<string name="Fatty Acids">    Data  </string>
+<string name="Femara (Letrozole) ">    Data  </string>
+<string name="Fennel">    Data  </string>
+<string name="Fladrafinil (CRL-40,941)">    Data  </string>
+<string name="Flavonoid">    Data  </string>
+<string name="Flibanserin">    Data  </string>
+<string name="Flmodafinil (CRL-40,940)">    Data  </string>
+<string name="Fluorenol (Hydrafinil)">    Data  </string>
+<string name="Fucoxanthin">    Data  </string>
+/////////////////////G//////////////////////////
+<string name="GABA">    Data  </string>
+<string name="GABA  Agonist">    Data  </string>
+<string name="GABA  Anologues">    Data  </string>
+<string name="Galantamine">    Data  </string>
+<string name="Ginkgo Biloba">    Data  </string>
+<string name="Ginseng Root">    Data  </string>
+<string name="Glucomannan (Konjac Root)">    Data  </string>
+<string name="Glucosamine">    Data  </string>
+<string name="Glucuronolactone">    Data  </string>
+<string name="Glutamate">    Data  </string>
+<string name="Glutamic Acid">    Data  </string>
+<string name="Glutamine">    Data  </string>
+<string name="Glutathione">    Data  </string>
+<string name="Glycine">    Data  </string>
+<string name="Glycine">    Data  </string>
+<string name="GMS (Glycerol Monostearate)">    Data  </string>
+<string name="Goji Berry">    Data  </string>
+<string name="Goldenseal Root">    Data  </string>
+<string name="Gotu Kola">    Data  </string>
+<string name="Grape Seed Extract">    Data  </string>
+<string name="Green Tea">    Data  </string>
+<string name="Growth Hormone  Secretagogue">    Data  </string>
+<string name="GW-501516 (Cardarine)">    Data  </string>
+<string name="Gynostemma Pentaphyllum (Jiaogulan)">    Data  </string>
+/////////////////////H//////////////////////////
+<string name="Hawthorne Berry">    Data  </string>
+<string name="He Shou Wu (Fallopia Multiflora) Root">    Data  </string>
+<string name="HGH (Human Growth Hormone)">    Data  </string>
+<string name="HICA  (Leucic Acid)">    Data  </string>
+<string name="Higenamine">    Data  </string>
+<string name="Histidine">    Data  </string>
+<string name="Holy Basil (Ocimum Tenuiflorum)">    Data  </string>
+<string name="Hordenine">    Data  </string>
+<string name="Hormones">    Data  </string>
+<string name="Horny Goat Weed (Epimedium)">    Data  </string>
+<string name="Huperzia Serrata">    Data  </string>
+<string name="Huperzine A">    Data  </string>
+<string name="Hydroxocobalamin">    Data  </string>
+/////////////////////I//////////////////////////
+<string name="Idebenone  ( CV-2619 )">    Data  </string>
+<string name="IDRA-21">    Data  </string>
+<string name="IGF-1">    Data  </string>
+<string name="Inositol  (Hexaphosphate/IP6-Inositol)">    Data  </string>
+<string name="Insulin">    Data  </string>
+<string name="Iodine">    Data  </string>
+<string name="Isoleucine">    Data  </string>
+/////////////////////J//////////////////////////
+<string name="Jujube Date">    Data  </string>
+/////////////////////K//////////////////////////
+<string name="Ketogenic Diet">    Data  </string>
+/////////////////////L//////////////////////////
+<string name="L-Alanine">    Data  </string>
+<string name="L-Arginine">    Data  </string>
+<string name="L-Arginine Ethyl Ester">    Data  </string>
+<string name="L-Aspartic  Acid">    Data  </string>
+<string name="L-Carnitine">    Data  </string>
+<string name="L-Cysteine">    Data  </string>
+<string name="L-Phenylalanine">    Data  </string>
+<string name="L-Theanine">    Data  </string>
+<string name="L-Tyrosine">    Data  </string>
+<string name="Lapacho (Taheebo)">    Data  </string>
+<string name="Lecithin">    Data  </string>
+<string name="Leucine">    Data  </string>
+<string name="Leucine">    Data  </string>
+<string name="Levetiracetam">
+	Levetiracetam is an anticonvulsant medication used to treat epilepsy.  
+	It is the S-enantiomer of etiracetam, structurally similar to the prototypical nootropic drug piracetam.
+	</string>
+<string name="LGD-4033 (Anabolicum)">    Data  </string>
+<string name="Licorice Root">    Data  </string>
+<string name="Lion's Mane Mushroom">    Data  </string>
+<string name="LLLT">    Data  </string>
+<string name="LSD (Lysergic  Acid  Diethylamide)">    Data  </string>
+<string name="Lucidril (Meclofenoxate)">    Data  </string>
+<string name="Lutein">    Data  </string>
+<string name="Lycopene">    Data  </string>
+<string name="Lysine">    Data  </string>
+/////////////////////M//////////////////////////
+<string name="Maca Root">    Data  </string>
+<string name="Magnesium">    Data  </string>
+<string name="Magnesium  Aspartate">    Data  </string>
+<string name="Magnesium  Carbonate">    Data  </string>
+<string name="Magnesium  Carbonate">    Data  </string>
+<string name="Magnesium  Chloride">    Data  </string>
+<string name="Magnesium  Citrate">    Data  </string>
+<string name="Magnesium  Glutamate">    Data  </string>
+<string name="Magnesium  Glycinate">    Data  </string>
+<string name="Magnesium  L-Threonate">    Data  </string>
+<string name="Magnesium  Lactate">    Data  </string>
+<string name="Magnesium  Malate">    Data  </string>
+<string name="Magnesium  Orotate">    Data  </string>
+<string name="Magnesium  Oxide">    Data  </string>
+<string name="Magnesium  Sulfate">    Data  </string>
+<string name="Magnesium  Taurate">    Data  </string>
+<string name="MAOB (Monoamine Oxidase B)">    Data  </string>
+<string name="Mediterranean Diet">    Data  </string>
+<string name="Melatonin">    Data  </string>
+<string name="Memantine">    Data  </string>
+<string name="Methionine">    Data  </string>
+<string name="Methylsynephrine">    Data  </string>
+<string name="Minerals">    Data  </string>
+<string name="Mirodenafil">    Data  </string>
+<string name="Mitake Mushroom (Frondosa)">    Data  </string>
+<string name="MK-2866 (Ostarine)">    Data  </string>
+<string name="MK-677 (Nutrobal)">    Data  </string>
+<string name="Modafinil (Provigil)">    Data  </string>
+<string name="MSM  (Methylsulfonylmethane)">    Data  </string>
+<string name="Mucuna Pruriens Extract (L-Dopa)">    Data  </string>
+<string name="Muira Puama (Ptychopetalum)">    Data  </string>
+<string name="Muira Puama (Ptychopetalum) ">    Data  </string>
+<string name="Mushrooms/Fungi">    Data  </string>
+<string name="Myo-Inositol">    Data  </string>
+/////////////////////N//////////////////////////
+<string name="N-Acetyl Selank">    Data  </string>
+<string name="N-Acetyl Semax">    Data  </string>
+<string name="N-Acetyl Semax Amide">    Data  </string>
+<string name="N-Formylmethionine">    Data  </string>
+<string name="N-MethylGlycine (Sarcosine)">    Data  </string>
+<string name="NAC (N-Acetyl L-Cysteine)">    Data  </string>
+<string name="NALT ( N-Acetyl L-Tyrosine )">    Data  </string>
+<string name="Nattokinase">    Data  </string>
+<string name="Nebracetam"> 
+		Nebracetam is an investigational drug of the racetam family that is a M1 acetylcholine receptor agonist in rats.
+        Its effects in humans have not been studied.
+		</string>
+<string name="Nefiracetam">
 	Solubility: Fat Soluble\n\n
         Nefiracetam is a nootropic antidementia drug of the racetam family.
         </string>
-        
-	<string name="Nicoracetam">There are currently no studies done with Nicoracetam.</string>
-	
-	<string name="Noopept">
+<string name="Neuroregenerative">    Data  </string>
+<string name="Neurotransmitters">    Data  </string>
+<string name="Nicoracetam">
+		There are currently no studies done with Nicoracetam.
+		</string>
+<string name="NMDA Antagonist">    Data  </string>
+<string name="Nolvadex  (Tamoxifen)">    Data  </string>
+<string name="Non-Essential">    Data  </string>
+<string name="Non-Proteinogenic Amino  Acids">    Data  </string>
+<string name="Non-Standard Amino  Acids">    Data  </string>
+<string name="Noopept">
 	Low Daily Dosage: 10mg\n\n
         High Daily Dosage: 40mg \n\n
         Common Positives: Supposedly 1000x more potent than Piracetam, increases levels of NGF and BDNF.  Highly Potent Nootropic, Enhances Learning and Memory, Increases Focus, Anxiolytic/Mood Enhancer\n\n
@@ -95,44 +370,150 @@
         Half Life:  30 Mins to 60 Mins\n\n
 	Summary:  Noopept is a peptide promoted and prescribed in Russia and neighbouring countries as a nootropic. The registered brand name Noopept (Ноопепт) is trademarked by the manufacturer JSC LEKKO Pharmaceuticals. The compound is patented in both the US and Russia with patent of Russian Federation number 2119496, US Patent number 5,439,930 issued 8/8/1995.[1] It is sold as a dietary supplement in the US and as a medication in other countries.\n\n
 	</string>
-	
-	<string name="Oxiracetam"> Low Daily Dosage: 300mg \n\n
+<string name="Nootropics">    Data  </string>
+<string name="Noradrenaline">    Data  </string>
+<string name="Norepinephrine">    Data  </string>
+<string name="Norsynephrine (Octopamine HCL )">    Data  </string>
+<string name="Norvaline">    Data  </string>
+<string name="NSI-189">    Data  </string>
+<string name="Nucleotides">    Data  </string>
+/////////////////////O//////////////////////////
+<string name="Ornithine">    Data  </string>
+<string name="Others">    Data  </string>
+<string name="Oxiracetam"> Low Daily Dosage: 300mg \n\n
         High Daily Dosage: 1200mg \n\n
         Common Positives: Memory, Recall\n\n
         Solubility: Water Soluble\n\n
-        Half Life: 8 Hours \n\n </string>
-	
-	<string name="Phenylpiracetam"> Low Daily Dosage:  100mg\n\n
+        Half Life: 8 Hours \n\n 
+		</string>
+/////////////////////P//////////////////////////
+<string name="Paleo">    Data  </string>
+<string name="PDE5 Inhibitors">    Data  </string>
+<string name="PEA  (Phenylethylamine HCL )">    Data  </string>
+<string name="Peppermint">    Data  </string>
+<string name="Peptides">    Data  </string>
+<string name="Phenibut">    Data  </string>
+<string name="Phenylalanine">    Data  </string>
+<string name="Phenylpiracetam"> Low Daily Dosage:  100mg\n\n
         High Daily Dosage: 250mg\n\nn
         Common Positives:  Improves tolerance to cold weather and increases productivity\n\n
         Solubility: Fat Solublr\n\n
-        Half Life:  2.5-3 Hours\n\n</string>
-		<string name="Piracetam"> Low Daily Dosage: 1 Gram\n\n
+        Half Life:  2.5-3 Hours\n\n
+		</string>
+<string name="Phenylpiracetam  Hydrazide">    Data  </string>
+<string name="Phosphatidylcholine">    Data  </string>
+<string name="Phosphatidylserine">    Data  </string>
+<string name="Picamilon (Pikamilon)">    Data  </string>
+<string name="Piperine">    Data  </string>
+<string name="Piracetam"> Low Daily Dosage: 1 Gram\n\n
         High Daily Dosage: 7 Grams\n\n
         Common Positives: Clarity, Memory, Verbal Fluidity, anti-vertigo\n\n
         Common Negatives: Headaches, Brain-fog, Hyperactivity, paradoxical sleepiness\n\n
         Solubility: Water Soluble\n\n
-        Half Life:  5 Hours\n\n</string>
-    <string name="Pramiracetam">Low Daily Dosage: 100mg\n\n
+        Half Life:  5 Hours\n\n
+		</string>
+<string name="Potassium">    Data  </string>
+<string name="PPAR? Receptor  Agonist">    Data  </string>
+<string name="PQQ (Pyrroloquinoline Quinone)">    Data  </string>
+<string name="Pramiracetam">Low Daily Dosage: 100mg\n\n
         High Daily Dosage: 1.6 Grams\n\n
         Common Positives: Memory, focus, verbal fluidity, stimulating goal-oriented behaviour\n\n
         Common Negatives: Expensive; Stomach pains\n\n
         Solubility: Fat Soluble\n\n
-        Half Life:  4.5-6.5 Hours\n\n</string>
-    <string name="Rolziracetam">
+        Half Life:  4.5-6.5 Hours\n\n
+		</string>
+<string name="Prebiotics">    Data  </string>
+<string name="Pregnonolone (P5)">    Data  </string>
+<string name="PRL-8-53">    Data  </string>
+<string name="Proline">    Data  </string>
+<string name="Prolintane">    Data  </string>
+<string name="Proscar (Finasteride)">    Data  </string>
+<string name="Proteinogenic  Amino  Acids">    Data  </string>
+<string name="Proteinogenic  Amino  Acids">    Data  </string>
+<string name="Psychedelics">    Data  </string>
+<string name="Psyllium Husk">    Data  </string>
+<string name="Pterostilbene">    Data  </string>
+<string name="Pyritinol">    Data  </string>
+<string name="Pyritinol">    Data  </string>
+<string name="Pyrrolysine">    Data  </string>
+/////////////////////Q//////////////////////////
+<string name="Quercetin">    Data  </string>
+<string name="Quercetine Dihydrate">    Data  </string>
+/////////////////////R//////////////////////////
+<string name="Racetams">    Data  </string>
+<string name="RAD-140">    Data  </string>
+<string name="Raloxifene">    Data  </string>
+<string name="Rehmannia  Root">    Data  </string>
+<string name="Reishi Mushroom">    Data  </string>
+<string name="Rev-ErbA Agonist">    Data  </string>
+<string name="Rhodiola Rosea  Root">    Data  </string>
+<string name="Rolziracetam">
     Rolziracetam is a nootropic of the racetam family found to improve performance on a delay-response task in aged rhesus monkeys.
     </string>
+<string name="Rutecarpine">    Data  </string>
+/////////////////////S//////////////////////////
+<string name="S-23">    Data  </string>
+<string name="S-40503">    Data  </string>
+<string name="S4 (Andarine)">    Data  </string>
+<string name="SAMe  (S-Adenosylmethionine)">    Data  </string>
+<string name="SARMs">    Data  </string>
+<string name="Schizandra  Berry">    Data  </string>
+<string name="Selank ">    Data  </string>
+<string name="Selegiline (Deprenyl)">    Data  </string>
+<string name="Selenocysteine">    Data  </string>
+<string name="Semax">    Data  </string>
+<string name="Serine">    Data  </string>
+<string name="SERMs">    Data  </string>
+<string name="Serotonergic">    Data  </string>
+<string name="Serotonin">    Data  </string>
+<string name="Shatavari Root">    Data  </string>
+<string name="Shitake Mushroom">    Data  </string>
+<string name="Solomon's Seal  Root (Polygonatum Sibericum)">    Data  </string>
+<string name="Spirulina">    Data  </string>
+<string name="SR9009">    Data  </string>
+<string name="St. John's Wort  (Hypericum Perforatum)">    Data  </string>
+<string name="Stimulants">    Data  </string>
+<string name="Sucralose">    Data  </string>
+<string name="Sulbutiamine">    Data  </string>
+<string name="Sunifiram ( DM-235 )">    Data  </string>
+<string name="Sweeteners">    Data  </string>
+<string name="Synephrine">    Data  </string>
+/////////////////////T//////////////////////////
+<string name="T3 (Liothyronine)">    Data  </string>
+<string name="TAU ( Triacetyluridine )">    Data  </string>
+<string name="Taurine">    Data  </string>
+<string name="tDCS">    Data  </string>
+<string name="tFUS">    Data  </string>
+<string name="Theacrine">    Data  </string>
+<string name="Theobromine">    Data  </string>
+<string name="Threonine">    Data  </string>
+<string name="Tianeptine">    Data  </string>
+<string name="TMS">    Data  </string>
+<string name="Tongkat Ali  (Long jack) ">    Data  </string>
+<string name="Toremifene (Fareston)">    Data  </string>
+<string name="Trimethylglycine  ( TMG, Betaine Anhydrous )">    Data  </string>
+<string name="Tryptophan">    Data  </string>
+<string name="Tyrosine">    Data  </string>
+/////////////////////U//////////////////////////
+<string name="Unifiram  ( DM232 )">    Data  </string>
+<string name="Uridine">    Data  </string>
+/////////////////////V//////////////////////////
+<string name="Valine">    Data  </string>
+<string name="Vasodilators">    Data  </string>
+<string name="Vasopressin (AVP)">    Data  </string>
+<string name="Viagra (Sildenafil)">    Data  </string>
+<string name="Vincamine">    Data  </string>
+<string name="Vinpocetine">    Data  </string>
+<string name="Vitamin  Derivatives">    Data  </string>
 
 
-
-
-	
-     <string name="VitaminA">
+<string name="VitaminA">
          Major Functions: Helps to keep eyesight and promote the growth of healthy skin, hair, bones and teeth. Helps in cell reproduction and aids to strengthen the immune and reproductive systems. The body uses beta-carotene and converts it to vitamin A.\n\n
          Deficiency Effects: Night blindness, dry skin, poor bone and teeth growth and development.\n\n
          Toxicity Effects:\n\n
          Food Sources: Alfalfa Sprouts, Avocado, Banana, Bee Pollen, Broccoli, Cabbage, Carrot, Cayenne Pepper Celery, Cherries, Yellow Fruits, Garlic, Kale, Kelp, lettuce, Melons Papaya, Parsley, Peas, Persimmin, Pineapple, Prunes, Spinach, Spirulina Sprouts, Tomato, Vegetable, green/yellow, Wheat s-w, Wheatgrass\n\n
 		 </string>
+<string name="Vitamin B">    Data  </string>
     <string name="VitaminB1">
         Major Functions: Used by the body to help convert carbohydrates into energy. Helps to keep the normal function of the nervous system, muscles heart and digestion.\n\n
         Deficiency Effects: Less concentration, loss of appetite. Weakness, exhaustion and fatigue.\n\n
@@ -181,6 +562,7 @@
         Toxicity Effects:\n\n
         Food Sources: Alfalfa, Alfalfa Sprouts, Beans (S-W), Bee Pollen, Cumfrey (H) Dulse, Garlic, Ginsing(Kor/Sib), Grains (S-W), Kelp Lentil Sprouts, Nutritional Yeast, Nuts, Seeds (S-W), Soybeans(S-W) Spirulina, Sprouts (all), Wheatgerm, Wheatgrass, White Oak Bk(H)\n\n
         </string>
+		
 	<string name="VitaminB15">
 		Major Functions: B-15… PANGAMIC ACID… Degenerates rapidly in the presence of heat. Extends cell life span. Helps lower blood cholesterol level. Speeds recovery from fatigue. Increases the body’s efficiency in using oxygen. Increases immunity to infections, Helpful in stimulating the glandular and nervous system. Essential in the body’s metabolism of protein. Protects against the damaging effects of carbon monoxide, and other pollutants. Widely used in Russia and Europe.\n\n
 		Deficiency Effects:\n\n
@@ -201,6 +583,7 @@
         Toxicity Effects:\n\n
         Food Sources": Alfalfa sprouts, Apple, Bee Pollen, Beets, Berries, Broccoli, Burdock Root (H), Cabbage, Cantaloupe Cauliflower, Celery, Cherries, Chickweed (H), Citrus fruits, Cucumber, Garlic, Grapefruit, Greens (Leafy) Kale, Kelp, Lemon, Onion, Oranges, Parsley, Peas, Persimmon, Pineapple Potato, Rosehips (H), Spinach, Spirulina, Sprouts (all), Strawberries, Watercress, Wheatgrass\n\n
         </string>
+<string name="Vitamin C Ester (Ascorbyl Palmitate)">    Data  </string>
     <string name="VitaminD">
         Major Functions: D… CALCIFEROL… Facilitates the absorption of calcium and phosphorus from foods. Bone builder. Aids in producing blood plasma. Regulates mineral metabolism. Stabilizes the nervous system and head action. Produced by the body in response to sunlight. Needed in the formation of certain enzymes. Helps in normal blond clotting.\n\n
         Deficiency Effects: Rickets and osteomalacia. Rickets results in soft bones and skeletal deformities\n\n
@@ -220,6 +603,15 @@
         Food Sources": Alfalfa Sprouts, Bee Pollen, Cabbage, Carrot, Cauliflower, Cayenne Pepper, Cumfrey (H) Corn, Ginger Root, Grains (S-W), Greens (leafy), Kale, Kelp Mushrooms, Oatmeal, Oats (S-W), Peas, Potato, Root Vegetables Safflower Oil, Soybeans (S-W), Spinach, strawberries, Wheatgerm, Wheatgrass\n\n
        </string>
     <string name="title_activity_support">SupportActivity</string>
+
+<string name="Vitamins">    Data  </string>
+/////////////////////W//////////////////////////
+/////////////////////X//////////////////////////
+/////////////////////Y//////////////////////////
+<string name="Yk-11">    Data  </string>
+<string name="Yohimbine">    Data  </string>
+/////////////////////Z//////////////////////////
+<string name="Zinc">    Data  </string>
 
 
 
